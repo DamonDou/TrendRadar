@@ -1,16 +1,8 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 比亚迪
 王传福
-
-大疆
-DJI
 
 京东
 刘强东
@@ -25,16 +17,8 @@ bytedance
 微软
 Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
 谷歌
 google
-gemini
-deepmind
 
 chatgpt
 openai
@@ -43,18 +27,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
-
-自动驾驶
-
-机器人
 
 国产
 中国
@@ -68,15 +43,10 @@ ai
 
 科技
 
-核能
-
-新质生产力
-
-月球
-登月
-
 长城汽车
 魏建军
 高山
 
 小鹏X9
+
+鸿蒙智行
