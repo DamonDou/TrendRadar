@@ -1,46 +1,8 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 比亚迪
 王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
 
 京东
 刘强东
@@ -55,16 +17,8 @@ bytedance
 微软
 Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
 谷歌
 google
-gemini
-deepmind
 
 chatgpt
 openai
@@ -73,18 +27,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
-
-自动驾驶
-
-机器人
 
 国产
 中国
@@ -98,16 +43,14 @@ ai
 
 科技
 
-核能
+汽车
+MPV
+SUV
 
-水电站
-雅鲁藏布江
+长城汽车
+魏建军
+高山
 
-新质生产力
+小鹏X9
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+鸿蒙智行
